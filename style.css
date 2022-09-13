@@ -1,0 +1,37 @@
+* {
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    color: turquoise;
+}
+
+.ul .li {
+    background-color: green;
+    margin: 5px;
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+    color: white;
+}
+.ua .ai {
+    background-color: aqua;
+    margin: 5px;
+}
+.ul-l {
+    background-color: coral;
+}
+.li-p {
+    background-color: red;
+    margin: 5px;
+}
+#pizza-jpeg {
+    height: 400px;
+    width: auto;
+}
+.li-l {
+    background-color: brown;
+    color: chartreuse;
+    margin: 5px;
+}
